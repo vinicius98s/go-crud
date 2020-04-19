@@ -23,6 +23,7 @@ require (
 	github.com/pilu/config v0.0.0-20131214182432-3eb99e6c0b9a // indirect
 	github.com/pilu/fresh v0.0.0-20190826141211-0fa698148017 // indirect
 	github.com/savsgio/gotils v0.0.0-20200308224205-e330c862e34f // indirect
+	go.mongodb.org/mongo-driver v1.3.2
 	golang.org/x/sys v0.0.0-20200302150141-5c8b2ff67527 // indirect
 	gopkg.in/go-playground/validator.v9 v9.31.0 // indirect
 	gopkg.in/urfave/cli.v1 v1.20.0 // indirect
