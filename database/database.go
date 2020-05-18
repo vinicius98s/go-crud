@@ -29,6 +29,6 @@ func Connect() {
 	fmt.Println("Connected to database!")
 
 	db := client.Database("go-crud")
-	// Create collections by controllers
+	// Handle collections by each controller
 	controllers.UsersCollection(db)
 }
